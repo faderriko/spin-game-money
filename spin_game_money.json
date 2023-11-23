@@ -3,6 +3,7 @@
     "tillNumber": "9828195",
     "tillName": "Flex Solutions",
     "depositAmount": "100",
+    "minimumWithdrawAmount": "2500",
     "showBannerAd": true,
     "showInterstitialAd": true,
     "showNativeAd": true,
